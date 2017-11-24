@@ -4,11 +4,11 @@ version = "1.0.0"
 authors = ["krircc <krircc@gmail.com>"]
 
 [[bin]]
-name = "muro_forum"
+name = "muro"
 path = "src/bin/main.rs"
 
 [lib]
-name = "muro"
+name = "muro_rs"
 path = "src/lib.rs"
 
 [[test]]

@@ -1,5 +1,5 @@
-extern crate muro;
+extern crate muro_rs;
 
 fn main() {
-    muro::start();
+    muro_rs::start();
 }
